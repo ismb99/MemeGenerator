@@ -1,5 +1,12 @@
+import Header from "./Components/Header";
+import Meme from "./Components/Meme";
 function App() {
-  return <h1>Hej</h1>;
+  return (
+    <div>
+      <Header />
+      <Meme />
+    </div>
+  );
 }
 
 export default App;
