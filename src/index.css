@@ -57,3 +57,7 @@ main {
   padding: 5px;
   border-radius: 5px;
 }
+
+.meme--img {
+  width: 300px;
+}
